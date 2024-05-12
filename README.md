@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/j48a217e)
 
 
 ![GlobeMediWatch Logo](./frontend/public/images/GlobeMediWatch_logo.jpeg)
@@ -305,17 +304,6 @@ Our project is organized into specific milestones, each with a set of user stori
 - As a health organization, I want to access reports on camp attendance and service usage, so that we can measure the impact of our camps.
 - As an administrator, I want to view analytics on donations and volunteer participation, so that we can improve our outreach and support.
 
-# Team Assignments
 
-
-Each team member has been assigned specific user stories to ensure coverage of all aspects of our project:
-
-- **Sri Charan Balakundhi**: User Registration, User Login, Update/Edit User Info, Create Health Organization Profile, List Services in health camps.
-
-- **Saurabh Srivatsava**: View list of health camps, Register as volunteer for health camps, Withdraw volunteer registration, Schedule health camps, View upcoming health camps for users.
-
-- **Neeraj Saini**: Health organizations manage services, Manage patient health records, User notifications, Health organization managing alerts, Number of patients and services analytics.
-
-- **Srijith Makam**: Define project structure, View active fundraisers/donations, Make donations, creating and managing fundraisers, Donation and volunteering analytics.
 
 
